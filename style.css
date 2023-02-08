@@ -1,0 +1,29 @@
+section{
+    display: flex;
+    gap: 15px;
+    background-color: aqua;
+    padding: 10px;
+    font-weight: 1000px;
+    height: 480px;
+    width: 840px;
+    border-radius: 10px;
+    margin: 100px auto;
+}
+.left{
+    text-align: center;
+}
+.left .one h2{
+    font-size: 45px ;
+    font-weight: bolder;
+}
+.left .two h4 {
+    font-size: 35px;
+    font-weight: bolder;
+}
+a {
+ text-decoration: none;
+}
+.left .three p {
+
+    font-size: 30px;
+}
